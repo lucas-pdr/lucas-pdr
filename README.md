@@ -5,12 +5,12 @@
 Me chamo Lucas Pacheco, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Portfólio "[Lucas Pacheco](https://lucas-pdr.github.io/lucas-portfolio/)".
 
 <p align="left">
-    <a href="https://github.com/lucas-pdr?tab=repositories" target="_blank"><img
+    <a href="https://github.com/lucas-pdr?tab=repositories"><img
             alt="Perfil"
             title="Repositórios"
             src="https://camo.githubusercontent.com/e58a7cf50b31185bc2f48db50bec00e9e43a9b2f43ad955c6afa5a3346d7e0bc/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f2d4d792532305265706f732d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f"/>
             </a>
-            <a href="https://www.linkedin.com/in/lucas-pacheco-26b95022b/" target="_blank"><img
+            <a href="https://www.linkedin.com/in/lucas-pacheco-26b95022b/"><img
             alt="Perfil"
             title="Linkedln"
             src="https://camo.githubusercontent.com/a7f4a173665f384ffb824b5c2be04649c66c7be04755aa5dc23a9238031535f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
