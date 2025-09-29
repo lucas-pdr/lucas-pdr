@@ -52,7 +52,7 @@ Me chamo Lucas Pacheco, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou
 
 ### 📊 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,vscode,discord,react,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,wordpress,react,vscode,discord,figma,github)](https://skillicons.dev)
 
 
   <img 
