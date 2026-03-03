@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Lucas Pacheco, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Portfólio "[Lucas Pacheco](https://lucas-pdr.github.io/lucas-portfolio/)".
+Me chamo Lucas Pacheco, tenho 23 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Portfólio "[Lucas Pacheco](https://lucas-pdr.github.io/lucas-portfolio/)".
 
 ### 📊 Skills
 
